@@ -22,7 +22,6 @@ FengJungle整理的USB协议2.0中文版（持续更新）
 	1.4	USB设备的拔插	7
 	
 2	USB数据流模型	8
-
 	2.1	Implementer Viewpoints	8
 	
 	2.2	USB总线拓扑	9
@@ -34,7 +33,6 @@ FengJungle整理的USB协议2.0中文版（持续更新）
 		2.3.2	管道	11
 		
 	2.4	传输（Transfers）	11
-	
 		2.4.1	控制传输（Control Transfers）	12
 		
 		2.4.2	中断传输（Interrupt Transfers）	15
